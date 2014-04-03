@@ -3,7 +3,7 @@
 # VERSION       1
 
 # Official ubuntu base image
-FROM ubuntu:14.04
+FROM ubuntu:13.10
 
 MAINTAINER Celso Andrade eu@celsoandrade.net
 
